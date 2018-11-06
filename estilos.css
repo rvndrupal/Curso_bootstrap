@@ -1,0 +1,19 @@
+.container {
+    border: 1px solid yellow;
+}
+
+#rojo {
+    border: 2px solid red;
+}
+
+#verde {
+    border: 2px solid green;
+}
+
+#azul {
+    border: 2px solid blue;
+}
+
+#naranja {
+    border: 2px solid orangered;
+}
