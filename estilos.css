@@ -17,3 +17,8 @@
 #naranja {
     border: 2px solid orangered;
 }
+
+#imagen {
+    width: 300px;
+    height: 350px;
+}
