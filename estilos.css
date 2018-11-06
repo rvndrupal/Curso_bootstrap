@@ -22,3 +22,39 @@
     width: 300px;
     height: 350px;
 }
+
+
+/*fuenetes y estilos*/
+
+
+/*se basa en el tamaño del html*/
+
+html {
+    font-size: 12px;
+    /*para movil*/
+}
+
+.fuente {
+    /* font-size: 2rem; serian 40px*/
+    font-size: 1.5rem;
+}
+
+.fuente {
+    margin: 3rem;
+    border: 3rem solid blue;
+    margin: 5rem;
+    font-size: 1rem;
+}
+
+
+/*PARA LOS RESPONSIVOS*/
+
+@media(min-width: 768px) {
+    /* con esto se aumenta todo*/
+    html {
+        font-size: 25px;
+    }
+    body {
+        background-color: gray;
+    }
+}
